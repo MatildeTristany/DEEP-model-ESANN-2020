@@ -12,7 +12,8 @@ The DEEP model here implemented is described by [Equilibrium Propagation for Com
 - Python 3.6.5 is used.
 
 **II** - Files:
-- *logical_operations_DEEP.ipynb*: contains DEEP's implementation for learning logic operations (introduced on Chapter 4 & 5 from [MSc Thesis (2019)](https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/283828618790517));
+- *logical_operations_DEEP.ipynb*: contains DEEP's implementation for learning logic operations (introduced on Chapter 4 & 5 from [MSc Thesis (2019)](https://fenix.tecnico.ulisboa.pt/cursos/mma/dissertacao/283828618790517, https://arxiv.org/abs/2006.08798v2));
+- *logical_operations_DEEP_oh.ipynb*: contains the asymmetric EP's implementation for learning logic operations with onehot encoding (based on [MSc Thesis (2019)](https://arxiv.org/abs/2006.08798v2);
 - *logical_operations_EP_asym.ipynb*: contains the asymmetric EP's implementation for learning logic operations (based on [Scellier et al. (2018)](https://arxiv.org/abs/1808.04873).
 
 **III** - Details in the Files:
